@@ -14,21 +14,23 @@ hero_media: welcome.jpg
 ---
 
 <br>
+
 ---
 widget: hero
-widget_id: homepage-enroll
+widget_id: homepage-welcome
 headless: true
-hero_media: ''
-title: TITLE
-subtitle: SUBTITLE
-cta:
-  url: 'https://forms.gle/Trdank3etdsbqFif7'
-  label: Enroll label
-  icon_pack: fas
-  icon: download
+weight: 10
+title: Study recruitment
+subtitle: Help scientists develop novel technology for monitoring brain health!
+active: true
+design:
+  columns: "1"
+  css_style: null
+  css_class: null
+hero_media: welcome.jpg
 ---
 
-
+<br>
 
 Help scientists develop novel technology for monitoring brain health!
 
