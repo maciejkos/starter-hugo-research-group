@@ -16,8 +16,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maciejkos/
-education:
-  courses: []
+education: ""
 email: ""
 user_groups:
   - Researchers
