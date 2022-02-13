@@ -1,7 +1,7 @@
 ---
 title: Misha Pavel
 role: Professor of Practice at Khoury College of Computer Sciences
-avatar_filename: avatar.png
+avatar_filename: ""
 organizations: []
 superuser: false
 authors:
