@@ -5,10 +5,7 @@ role: Assistant Professor of Physics at UMass Boston and a Visiting Assistant
   University
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: linkedin
     icon_pack: fab
