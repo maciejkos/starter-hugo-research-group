@@ -18,9 +18,7 @@ Help scientists develop novel technology for monitoring brain health!
 
 **Participants who complete the study will receive $500 in gift cards.**
 
-{{< cta cta_text="ENROLL NOW!" cta_link="https://forms.gle/Trdank3etdsbqFif7" cta_new_tab="false" >}}
-
-{{% cta cta_link="https://forms.gle/Trdank3etdsbqFif7" cta_text="ENROLL NOW!" %}}
+{{< cta cta_text="ENROLL NOW!" cta_link="https://forms.gle/Trdank3etdsbqFif7" cta_new_tab="false" padding_right="0">}}
 
 **We are recruiting 3 different groups of participants:**
 
