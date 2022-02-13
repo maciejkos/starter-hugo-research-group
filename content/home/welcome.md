@@ -20,6 +20,8 @@ Help scientists develop novel technology for monitoring brain health!
 
 {{< cta cta_text="ENROLL NOW!" cta_link="https://forms.gle/Trdank3etdsbqFif7" cta_new_tab="false" >}}
 
+{{% cta cta_link="https://forms.gle/Trdank3etdsbqFif7" cta_text="ENROLL NOW!" %}}
+
 **We are recruiting 3 different groups of participants:**
 
 1. People experiencing difficulties with memory or thinking skills. 
