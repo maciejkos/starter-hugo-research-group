@@ -14,8 +14,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.nl/citations?user=lgpH0woAAAAJ&hl=en
 organizations: []
-education:
-  courses: []
+education: ""
 email: ""
 superuser: false
 user_groups:
