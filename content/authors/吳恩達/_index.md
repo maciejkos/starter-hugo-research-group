@@ -20,7 +20,6 @@ education:
 email: ""
 user_groups:
   - Researchers
-  - Visitors
 ---
 Misha Pavel holds a joint faculty appointment in Northeastern University’s Khoury College of Computer Sciences and Bouvé College of Health Sciences. His background comprises electrical engineering, computer science, and experimental psychology, and his research is focused on multi-scale computational modeling of behaviors and their control, with applications ranging from elder care to augmentation of human performance. Pavel uses these model-based approaches to develop algorithms transforming unobtrusive monitoring from smart homes and mobile devices to useful and actionable knowledge for diagnosis and intervention. Under the auspices of the Northeastern-based Consortium on Technology for Proactive Care, Pavel and his colleagues target technological innovations to support the development of economically feasible, proactive, distributed, and individual-centered healthcare. In addition, Pavel is investigating approaches to inferring and augmenting human intelligence using computer games, EEG, and transcranial electrical stimulation.
 
