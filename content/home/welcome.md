@@ -12,11 +12,13 @@ design:
   css_class: null
 hero_media: welcome.jpg
 ---
+
 <br>
 ---
 widget: hero
 widget_id: homepage-enroll
 headless: true
+hero_media: ''
 title: TITLE
 subtitle: SUBTITLE
 cta:
