@@ -12,6 +12,20 @@ design:
   css_class: null
 hero_media: welcome.jpg
 ---
+
+---
+widget: hero
+widget_id: homepage-enroll
+headless: true
+title: TITLE
+subtitle: SUBTITLE
+cta:
+  url: 'https://forms.gle/Trdank3etdsbqFif7'
+  label: Enroll label
+  icon_pack: fas
+  icon: download
+---
+
 <br>
 
 Help scientists develop novel technology for monitoring brain health!
