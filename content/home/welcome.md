@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: Study recruitment
 subtitle: Help scientists develop novel technology for monitoring brain health!
-active: false
+active: true
 design:
   columns: "1"
   css_style: null
