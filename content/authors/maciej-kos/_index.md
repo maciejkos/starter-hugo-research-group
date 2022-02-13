@@ -2,7 +2,7 @@
 title: Maciej Kos
 role: Ph.D. Candidate in Personal Health Informatics, Khoury College of Computer
   Sciences
-avatar_filename: ""
+avatar_filename: avatar.jpg
 organizations: []
 superuser: false
 authors:
