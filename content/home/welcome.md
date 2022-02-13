@@ -13,9 +13,6 @@ design:
 hero_media: welcome.jpg
 ---
 
-<br>
-
----
 widget: hero
 widget_id: homepage-welcome
 headless: true
