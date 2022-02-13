@@ -15,8 +15,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/misha-pavel-52ab3/
-education:
-  courses: []
+education: ""
 email: ""
 user_groups:
   - Researchers
