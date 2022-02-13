@@ -12,7 +12,7 @@ design:
   css_class: null
 hero_media: welcome.jpg
 ---
-
+<br>
 ---
 widget: hero
 widget_id: homepage-enroll
@@ -26,7 +26,7 @@ cta:
   icon: download
 ---
 
-<br>
+
 
 Help scientists develop novel technology for monitoring brain health!
 
