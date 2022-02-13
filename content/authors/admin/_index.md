@@ -3,6 +3,7 @@ title: Sumientra Rampersad
 role: Assistant Professor of Physics at UMass Boston and a Visiting Assistant
   Research Professor of Electrical and Computer Engineering at Northeastern
   University
+avatar_filename: sumientra.jpg
 bio: ""
 interests:
   - Artificial Intelligence
