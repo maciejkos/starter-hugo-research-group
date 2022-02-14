@@ -1,17 +1,17 @@
 ---
 cta_note:
-  label: LABEL2
+  label: Earn up to $500 and help scientists studying brain health.
 widget: hero
 active: true
 cta:
-  url: https://mkos.pl
-  label: Label1
+  url: https://forms.gle/Trdank3etdsbqFif7
+  label: Enroll now!
   icon_pack: fas
-  icon: download
+  icon: fa-arrow-right
 widget_id: hero-cta
 headless: true
 weight: 5
-title: TITLE
+title: Enrollment is open
 subtitle: SUBTITLE
 hero_media: ""
 ---
