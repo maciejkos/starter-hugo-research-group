@@ -108,7 +108,9 @@ If you prefer to attend the lab sessions at our second location right next to Pr
 
 The study will last 12 months from your first lab session to completion. Each of the three lab sessions will take between 2 and 3 hours. The lab visits will be six months apart.
 
+**At what times will the lab sessions take place?**
 
+We will schedule the lab meetings based on your availibility. Our labs are open seven days a week between 8 am and 11 pm ET. 
 
 **Who will see the information about me and my data?**
 
