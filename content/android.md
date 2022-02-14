@@ -13,6 +13,6 @@ You will see a screen that looks similar to the below screenshot. If the [websit
 {{< figure src="android.jpg" caption="The screenshot showing Android 12 is used" numbered="false" >}}
 
 <br>
-**If you have any trouble checking you Android version**, we will help you before inviting you to the first lab visit.
+**If you have any trouble checking your Android version**, please fill out the [interest form]({{< relref "/enroll" >}}). We will help you before inviting you to the first lab visit.
 
 <br>
