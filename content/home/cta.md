@@ -8,4 +8,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-{{% cta cta_link="https://forms.gle/Trdank3etdsbqFif7" cta_text="Fill out our interest form →" %}}
+{{% cta cta_link="/enroll" cta_text="Fill out our interest form →" %}}
