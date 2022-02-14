@@ -104,7 +104,7 @@ Participants who complete the whole study will receive a **bonus of $175**. Ther
 
 The lab sessions will take place in our lab at Northeastern University's Interdisciplinary Science & Engineering Complex located at 805 Columbus Avenue in Boston. We will cover your parking fees. [Click here](https://goo.gl/maps/sisDYKQb3DHBvXeq8) to see the lab's location on Google Maps. 
 
-If you prefer to attend the lab sessions at our second location right next to Prudential, please notify our team. We will try to accomodate your request. The second location is at 177 Huntington. [Click here](https://goo.gl/maps/ihSpFaeb33nytFcz6) to see the second location on Google Maps. 
+If you prefer to attend the lab sessions at our second location right next to Prudential, please notify our team. We will try to accommodate your request. The second location is at 177 Huntington. [Click here](https://goo.gl/maps/ihSpFaeb33nytFcz6) to see the second location on Google Maps. 
 
 The study will last 12 months from your first lab session to completion. Each of the three lab sessions will take between 2 and 3 hours. The lab visits will be six months apart.
 
