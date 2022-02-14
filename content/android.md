@@ -3,8 +3,9 @@ title: What version of Android is my phone using?
 date: 2022-02-14T06:34:03.640Z
 summary: ""
 ---
-
+{{% callout note %}}
 **If you have any trouble following these instructions**, please fill out the [interest form]({{< relref "/enroll" >}}). We will help you check your Android version before inviting you to the first lab visit.
+{{% /callout %}}
 
 <br>
 
