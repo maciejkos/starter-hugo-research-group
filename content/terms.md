@@ -3,22 +3,23 @@ title: About the project
 date: 2022-02-14T06:34:03.640Z
 summary: ""
 ---
-Northeastern University, Department of Electrical and Computer Engineering
+**Project Name**: FOCI (Focus on Cognitive Impairments)
 
-Names of Investigators: Sumientra Rampersad, PhD; Michael (Misha) Pavel, Phd; Maciej Kos
+**Organization**: Northeastern University, Department of Electrical and Computer Engineering
 
-Title of Project: FOCI Study
+**Investigators**: Sumientra Rampersad, PhD; Michael (Misha) Pavel, Phd; Maciej Kos
 
 **What is the goal of this study?**
 
-The goal of this research is to develop a new mobile technology for monitoring changes in memory and attention.
+The goal of this research is to develop new mobile technology for monitoring changes in memory and attention. Your data may help develop new ways for detecting and tracking changes in cognitive impairments as well as advance our understanding of conditions such as mild cognitive impairment and subject cognitive decline. Your participation will likely help this research and technology reach its full potential.
 
 **What is the key information about this project?**
+
+
 The study consists of:
 
 * Three in-person meetings in our lab, of 2 to 3 hours each. 
 * The first in-person session will take place after you are enrolled in the study. The second meeting will take place after 6 months. The third meeting will take place after 12 months. 
-
 
 The procedures that you will be asked to complete include:
 
@@ -30,12 +31,11 @@ The procedures that you will be asked to complete include:
 
 We are asking individuals with and without mild or subjective cognitive impairment to participate. You have shown an interest in helping us develop new mobile technology for detecting and monitoring cognitive impairments. You are between 45 and 65 years of age, able to speak and read English, you own and use an Android smartphone with a data plan. 
 
-You are not pregnant or planning on becoming pregnant, are not diagnosed with dementia or any condition preventing you from leaving home you are not diagnosed with sleep apnea that you do not treat (if you have such a diagnosis you are planning treatment in the next six months), you are not diagnosed with unstable major depression (not including postpartum related), unstable anxiety disorder, epilepsy, seizures, multiple sclerosis, traumatic brain injury, post-traumatic stress disorder, psychosis, bipolar disorder, Alzheimer's disease, Parkinson's disease, vascular dementia, schizophrenia.
+You are not pregnant or planning on becoming pregnant, are not diagnosed with dementia or any condition preventing you from leaving home, you are not diagnosed with unstable major depression (not including postpartum related), unstable anxiety disorder, epilepsy, seizures, multiple sclerosis, traumatic brain injury, post-traumatic stress disorder, psychosis, bipolar disorder, Alzheimer's disease, Parkinson's disease, vascular dementia, schizophrenia. If you are diagnosed with sleep apnea, you are planning to start CPAP treatment within the next six months.
 
 **What will I be asked to do?** 
 
 You will be asked to come to our lab. Before entering the lab, we will ask you some basic health questions, we may take your temperature using a touchless thermometer, and may ask you to wear a face mask covering your mouth and nose. If needed, the research staff will wear a mask.
-
 
 During your first lab session, a member of our research team will take you through the consent process and we will ask your age, gender, sex at birth, and additional demographic information. We will also ask you to tell us your height and weight. We are asking for this information because we would like to calculate two things. First, we would like to calculate how many calories you burn per day. Second, we would like to calculate how tiring physical activities may be for you. Knowing your height and weight would help us in these calculations. Then we will ask you to do a few memory and thinking tasks, and some simple movement exercises. The researcher will also ask you for an email address or address where we can send you a gift card. 
 
@@ -63,11 +63,18 @@ Next, we will install our research data collection app on your phone. The app co
 * device’s battery status and whether the device is charging
 
 To respect your privacy:
-●	we do not access and do not record web browsing and search history
-●	we do not access and do not record information about who you call and what you say
-●	we do not access and do not record what you type
-●	we do not access and do not record who you message and what the messages are
-●	we do not access and do not record your message history
-●	we do not access and do not record any videos or sounds
-●	we do not access and do not record any videos or photos you take
-●	we do not access and do not record what you do using the apps installed on your device, e.g., we do not record if you tap “like” on Facebook or if you buy any products using the Amazon app
+
+* we do not access and do not record web browsing and search history
+* we do not access and do not record information about who you call and what you say
+
+* we do not access and do not record what you type
+
+* we do not access and do not record who you message and what the messages are
+
+* we do not access and do not record your message history
+
+* we do not access and do not record any videos or sounds
+
+* we do not access and do not record any videos or photos you take
+
+* we do not access and do not record what you do using the apps installed on your device, e.g., we do not record if you tap “like” on Facebook or if you buy any products using the Amazon app
