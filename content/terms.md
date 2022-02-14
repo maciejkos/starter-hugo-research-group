@@ -129,3 +129,8 @@ The possibility of feeling uncomfortable working with the app is very low. If yo
 You may feel fatigued or frustrated during the thinking and movement tasks in the lab. You will be allowed breaks at several points during each session. 
 
 EEG is of minimal risk and should cause no harm. There is a small chance that you may experience some scalp irritation from the electrodes.
+
+**Who can I contact if I have questions or problems?**
+
+
+If you have any questions about this study, please feel free to contact the principal investigator Dr. Sumientra Rampersad via phone (617-379-1112) or email: foci.study@gmail.com (preferred) or s.rampersad@northeastern.edu.
