@@ -9,15 +9,17 @@ summary: ""
 
 **Investigators**: Sumientra Rampersad, Ph.D.; Michael (Misha) Pavel, Ph.D.; Maciej Kos, MA, MSc
 
-{{< spoiler text="**ZZZWhat is the goal of this study?**" >}}
-zzzzzzzzzzzzzzzzzzzzzzzzzzz
-{{< /spoiler >}}
-
-**What is the goal of this study?**
+{{< spoiler text="**What is the goal of this study?**" >}}
 
 The goal of this research is to develop new mobile technology for monitoring changes in memory and attention. Your data may help develop new ways for detecting and tracking changes in cognitive impairments as well as advance our understanding of conditions such as mild cognitive impairment and subject cognitive decline. Your participation will likely help this research and technology reach its full potential.
 
-**What is the key information about this project?**
+{{< /spoiler >}}
+
+
+
+{{< spoiler text="**What is the key information about this project?**
+" >}}
+
 
 The study consists of:
 
@@ -30,17 +32,25 @@ The procedures that you will be asked to complete include:
 * During the 3 lab visits, you will be asked to answer brief demographic questions, complete a series of thinking and movement tasks, and have electroencephalography  (EEG) of your head.
 * Throughout the 12 months of the study, you will receive, on average, one message every two days, and no more than two messages per day, on your phone asking you to respond to a brief question.
 
-**What phone do I need to participate in the study?**
+{{< /spoiler >}}
+
+{{< spoiler text="**What phone do I need to participate in the study?**" >}}
+
 
 You need to have and regularly use an Android smartphone with a data plan. The version of your Android operating system should be 7 or higher. To check what version of Android your phone uses, go to this page. 
 
-**Why am I being asked to take part in this research study?**
+Unfortunately, iPhones cannot be used in this study.
+{{< /spoiler >}}
+
+{{< spoiler text="**Why am I being asked to take part in this research study?**" >}}
+
 
 We are asking individuals with and without mild or subjective cognitive impairment to participate. You have shown an interest in helping us develop new mobile technology for detecting and monitoring cognitive impairments. You are between 45 and 65 years of age, able to speak and read English, you own and use an Android smartphone with a data plan. 
 
 You are not pregnant or planning on becoming pregnant, are not diagnosed with dementia or any condition preventing you from leaving home, you are not diagnosed with unstable major depression (not including postpartum related), unstable anxiety disorder, epilepsy, seizures, multiple sclerosis, traumatic brain injury, post-traumatic stress disorder, psychosis, bipolar disorder, Alzheimer's disease, Parkinson's disease, vascular dementia, schizophrenia. If you are diagnosed with sleep apnea, you are planning to start CPAP treatment within the next six months.
 
-**What will I be asked to do?** 
+{{< spoiler text="**What will I be asked to do?** " >}}
+
 
 You will be asked to come to our lab. Before entering the lab, we will ask you some basic health questions, we may take your temperature using a touchless thermometer, and may ask you to wear a face mask covering your mouth and nose. If needed, the research staff will wear a mask.
 
@@ -50,7 +60,7 @@ We will ask you to undergo an electroencephalography (EEG) session, which takes 
 
 EEG is of minimal risk and should cause no harm. There is a small chance that you may experience some scalp irritation from the electrodes.
 
-We will also ask you to allow us to export your Android activity data, i.e., your movement data, what apps you use and when, from your phone. We will not export any emails, messages, photos, videos or browsing history. You will log into your Google account on our secure lab computer. We will export your Android activity data using Google’s service called Google Takeout. We will encrypt and save the data on the computer and log out of your Google account. To ensure nobody can access your account, we will clear the browser’s cache and cookies.
+We will also ask you to allow us to export your Android activity data, i.e., your movement data, what apps you use on your phone and when. We will not export any emails, messages, photos, videos, or browsing history. You will log into your Google account on our secure lab computer. We will export your Android activity data using Google’s service called Google Takeout. We will encrypt and save the data on the computer and log out of your Google account. To ensure nobody can access your account, we will clear the browser’s cache and cookies.
 
 Next, we will install our research data collection app on your phone. The app collects the following data:
 
@@ -85,6 +95,10 @@ To respect your privacy:
 Our research app will also ask you short questions, e.g., “Were you shopping yesterday?” On average, you would receive one question every two days and no more than three questions per day. By default, the questions will be sent between 11 am and 9 pm. However, you can change delivery times to be between the hours that you specify.
 
 At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking + movement tasks). During the third visit, we will remove the data collection app from your phone.
+{{< /spoiler >}}
+
+{{< spoiler text="**Will I be compensated for my participation in this study?**" >}}
+
 
 As a token of our gratitude, after every session you will receive a gift card from a store of your choice: Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, or iTunes. If you are interested in a gift card for another store, please let us know. We will do our best to accommodate your request, but we can’t guarantee that we will be able to provide gift cards for stores other than Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, and iTunes.
 
@@ -96,7 +110,10 @@ You will receive gift cards worth:
 
 Participants who complete the whole study will receive a bonus of <u>$175</u>. Therefore, if you complete the whole study, you will receive <u>**a total of $500 in gift cards**</u>.
 
-**Where will this take place and how much of my time will it take?** 
+{{< /spoiler >}}
+
+{{< spoiler text="**Where will this study take place and how much of my time will it take?** " >}}
+
 
 The lab sessions will take place in our lab at Northeastern University's Interdisciplinary Science & Engineering Complex located at 805 Columbus Avenue in Boston. We will cover your parking fees. [Click here](https://goo.gl/maps/sisDYKQb3DHBvXeq8) to see the lab's location on Google Maps. 
 
@@ -104,19 +121,33 @@ If you prefer to attend the lab sessions at our second location right next to Pr
 
 The study will last 12 months from your first lab session to completion. Each of the three lab sessions will take between 2 and 3 hours. The lab visits will be six months apart.
 
-**At what times will the lab sessions take place?**
+{{< /spoiler >}}
+
+{{< spoiler text="**At what times will the lab sessions take place?**" >}}
+
 
 We will schedule the lab meetings based on your availability. Our labs are open seven days a week between 8 am and 11 pm ET. 
 
-**Who will see the information about me and my data?**
+{{< /spoiler >}}
+
+{{< spoiler text="**Who will see the information about me and my data?**" >}}
+
 
 Your information in this study will be confidential. Only the researchers conducting this study will see the information about you and your data. No reports or publications will use information that can identify you in any way as being a participant in this project. All recordings will be destroyed following transcription and analysis. Your de-identified information could be used for future research without additional informed consent.
 
-**Can I stop my participation in this study?** 
+{{< /spoiler >}}
+
+
+{{< spoiler text="**Can I stop my participation in this study?** " >}}
+
 
 Your participation in this research is completely voluntary. You do not have to participate if you do not want to, and you can refuse to answer any question. Even if you agree to be in the study, you may stop at any time. If you do not participate or if you decide to quit, you will not lose any rights, benefits, or services that you would otherwise have. 
 
-**Will there be any risk or discomfort to me?** 
+{{< /spoiler >}}
+
+
+{{< spoiler text="**Will there be any risk or discomfort to me?**" >}}
+ 
 
 The likelihood and degree of risk to participants are minimal. You are also free to stop your participation at any time.
 
@@ -126,6 +157,10 @@ You may feel fatigued or frustrated during the thinking and movement tasks in th
 
 EEG is of minimal risk and should cause no harm. There is a small chance that you may experience some scalp irritation from the electrodes.
 
-**Who can I contact if I have questions or problems?**
+{{< /spoiler >}}
+
+
+{{< spoiler text="**Who can I contact if I have questions or problems?**" >}}
+
 
 If you have any questions about this study, please feel free to contact the principal investigator Dr. Sumientra Rampersad via phone (617-379-1112) or email: foci.study@gmail.com (preferred) or s.rampersad@northeastern.edu.
