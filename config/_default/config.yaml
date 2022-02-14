@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: FOCI Research Study # Website name
-baseurl: '' # Website URL
+baseurl: 'cognition.nu' # Website URL
 copyright: '© {year} Maciej Kos | Published with Wowchemy' # Footer text, e.g. '© {year} Me'
 
 ############################
