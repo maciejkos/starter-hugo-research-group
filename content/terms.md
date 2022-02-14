@@ -87,7 +87,7 @@ To respect your privacy:
 
 Our research app will also ask you short questions, e.g., “Were you shopping yesterday?” On average, you would receive one question every two days and no more than three questions per day. By default, the questions will be sent between 11 am and 9 pm. However, you can change delivery times to be between the hours that you specify.
 
-At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking + movement tasks). During the third visit we will remove the data collection app from your phone.
+At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking + movement tasks). During the third visit, we will remove the data collection app from your phone.
 
 As a token of our gratitude, after every session you will receive a gift card from a store of your choice: Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop or iTunes. If you are interested in a gift card for another store, please let us know. We will do our best to accommodate your request, but we can’t guarantee that we will be able to provide gift cards for stores other than Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, and iTunes.
 
@@ -98,6 +98,17 @@ You will receive gift cards worth:
 * $150 after the third lab session. 
 
 Participants who complete the whole study will receive a **bonus of $175**. Therefore, if you complete the whole study, you will receive **a total of $500 in gift cards**.
+
+**Where will this take place and how much of my time will it take?** 
+
+
+The lab sessions will take place in our lab at Northeastern University's Interdisciplinary Science & Engineering Complex located at 805 Columbus Avenue in Boston. We will cover your parking fees. [Click here](https://goo.gl/maps/sisDYKQb3DHBvXeq8) to see the lab's location on Google Maps. 
+
+If you prefer to attend the lab sessions at our second location right next to Prudential, please notify our team. We will try to accomodate your request. The second location is at 177 Huntington. [Click here](https://goo.gl/maps/ihSpFaeb33nytFcz6) to see the second location on Google Maps. 
+
+The study will last 12 months from your first lab session to completion. Each of the three lab sessions will take between 2 and 3 hours. The lab visits will be six months apart.
+
+
 
 **Who will see the information about me and my data?**
 
