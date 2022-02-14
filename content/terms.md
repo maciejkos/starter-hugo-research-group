@@ -85,6 +85,20 @@ To respect your privacy:
 
 * we do not access and do not record what you do using the apps installed on your device, e.g., we do not record if you tap “like” on Facebook or if you buy any products using the Amazon app
 
+Our research app will also ask you short questions, e.g., “Were you shopping yesterday?” On average, you would receive one question every two days and no more than three questions per day. By default, the questions will be sent between 11 am and 9 pm. However, you can change delivery times to be between the hours that you specify.
+
+At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking + movement tasks). During the third visit we will remove the data collection app from your phone.
+
+As a token of our gratitude, after every session you will receive a gift card from a store of your choice: Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop or iTunes. If you are interested in a gift card for another store, please let us know. We will do our best to accommodate your request, but we can’t guarantee that we will be able to provide gift cards for stores other than Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, and iTunes.
+
+You will receive gift cards worth: 
+
+* $75 after the first lab session, 
+* $100 after the second lab session,
+* $150 after the third lab session. 
+
+Participants who complete the whole study will receive a **bonus of $175**. Therefore, if you complete the whole study, you will receive **a total of $500 in gift cards**.
+
 **Who will see the information about me and my data?**
 
 Your information in this study will be confidential. Only the researchers conducting this study will see the information about you and your data. No reports or publications will use information that can identify you in any way as being a participant in this project. All recordings will be destroyed following transcription and analysis. Your de-identified information could be used for future research without additional informed consent.
