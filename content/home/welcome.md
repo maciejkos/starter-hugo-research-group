@@ -47,5 +47,5 @@ Help scientists develop novel technology for monitoring brain health!
 **If you are interested:**
 
 * Read more about the study here.
-* Fill out our [interest form](https://forms.gle/Trdank3etdsbqFif7) and we will contact you (preferred).
+* Fill out our [interest form]({{< relref "/enroll" >}}) and we will contact you (preferred).
 * You can also contact us at foci.study@gmail.com or 617-379-1112.
