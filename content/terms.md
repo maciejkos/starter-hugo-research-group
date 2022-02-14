@@ -32,3 +32,20 @@ The procedures that you will be asked to complete include:
 * Throughout the 12 months of the study, you will receive, on average, one message every two days, and no more than two messages per day, on your phone asking you to respond to a brief question.
 
 {{< /spoiler >}}
+
+{{< spoiler text="**What phone do I need to participate in the study?**" >}}
+
+
+You need to have and regularly use an Android smartphone with a data plan. The version of your Android operating system should be 7 or higher. To check what version of Android your phone uses, go to this page. 
+
+Unfortunately, iPhones cannot be used in this study.
+{{< /spoiler >}}
+
+{{< spoiler text="**Why am I being asked to take part in this research study?**" >}}
+
+
+We are asking individuals with and without mild or subjective cognitive impairment to participate. You have shown an interest in helping us develop new mobile technology for detecting and monitoring cognitive impairments. You are between 45 and 65 years of age, able to speak and read English, you own and use an Android smartphone with a data plan. 
+
+You are not pregnant or planning on becoming pregnant, are not diagnosed with dementia or any condition preventing you from leaving home, you are not diagnosed with unstable major depression (not including postpartum related), unstable anxiety disorder, epilepsy, seizures, multiple sclerosis, traumatic brain injury, post-traumatic stress disorder, psychosis, bipolar disorder, Alzheimer's disease, Parkinson's disease, vascular dementia, schizophrenia. If you are diagnosed with sleep apnea, you are planning to start CPAP treatment within the next six months.
+
+{{< /spoiler >}}
