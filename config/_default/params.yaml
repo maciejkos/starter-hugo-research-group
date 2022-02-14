@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '42.33775729121899'
   longitude: '-71.08696584317833'
-directions: Our main lab is located in Northeastern University Interdisciplinary Science & Engineering Complex. Our second lab is located at 177 Huntington Avenue.
+directions: Our main lab is located in Northeastern University Interdisciplinary Science & Engineering Complex ([Google Maps](https://goo.gl/maps/sisDYKQb3DHBvXeq8)). Our second lab is located at 177 Huntington Avenue ([Google Maps](https://goo.gl/maps/ihSpFaeb33nytFcz6)).
 office_hours:
   - 'Appointments are available every day (including weekends) 8:00 am to 11:00 pm ET'
 appointment_url: ''
