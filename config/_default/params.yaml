@@ -23,18 +23,18 @@ twitter: ''
 email: foci.study@gmail.com
 phone: 617-379-1112
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 805 Columbus Ave
+  city: Boston
+  region: MA
+  postcode: '02120'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '42.33775729121899'
+  longitude: '-71.08696584317833'
+directions: Our main lab is located in Northeastern University Interdisciplinary Science & Engineering Complex. Our second lab is located at 177 Huntington Avenue.
 office_hours:
-  - 'Every day (including weekends) 8:00 am to 11:00 pm ET'
+  - 'Appointments are available every day (including weekends) 8:00 am to 11:00 pm ET'
 appointment_url: ''
 contact_links:
 #  - icon: comments
