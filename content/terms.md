@@ -3,7 +3,7 @@ title: About the project
 date: 2022-02-14T06:34:03.640Z
 summary: ""
 ---
-**Project Name**: FOCI (<u>Focus</u> on Cognitive Impairments)
+**Project Name**: FOCI (Focus on Cognitive Impairments)
 
 **Organization**: Northeastern University, Department of Electrical and Computer Engineering
 
@@ -14,7 +14,6 @@ summary: ""
 The goal of this research is to develop new mobile technology for monitoring changes in memory and attention. Your data may help develop new ways for detecting and tracking changes in cognitive impairments as well as advance our understanding of conditions such as mild cognitive impairment and subject cognitive decline. Your participation will likely help this research and technology reach its full potential.
 
 **What is the key information about this project?**
-
 
 The study consists of:
 
@@ -72,24 +71,18 @@ To respect your privacy:
 
 * we do not access and do not record web browsing and search history
 * we do not access and do not record information about who you call and what you say
-
 * we do not access and do not record what you type
-
 * we do not access and do not record who you message and what the messages are
-
 * we do not access and do not record your message history
-
 * we do not access and do not record any videos or sounds
-
 * we do not access and do not record any videos or photos you take
-
 * we do not access and do not record what you do using the apps installed on your device, e.g., we do not record if you tap “like” on Facebook or if you buy any products using the Amazon app
 
 Our research app will also ask you short questions, e.g., “Were you shopping yesterday?” On average, you would receive one question every two days and no more than three questions per day. By default, the questions will be sent between 11 am and 9 pm. However, you can change delivery times to be between the hours that you specify.
 
 At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking + movement tasks). During the third visit, we will remove the data collection app from your phone.
 
-As a token of our gratitude, after every session you will receive a gift card from a store of your choice: Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop or iTunes. If you are interested in a gift card for another store, please let us know. We will do our best to accommodate your request, but we can’t guarantee that we will be able to provide gift cards for stores other than Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, and iTunes.
+As a token of our gratitude, after every session you will receive a gift card from a store of your choice: Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, or iTunes. If you are interested in a gift card for another store, please let us know. We will do our best to accommodate your request, but we can’t guarantee that we will be able to provide gift cards for stores other than Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, and iTunes.
 
 You will receive gift cards worth: 
 
@@ -97,10 +90,9 @@ You will receive gift cards worth:
 * $100 after the second lab session,
 * $150 after the third lab session. 
 
-Participants who complete the whole study will receive a **bonus of $175**. Therefore, if you complete the whole study, you will receive **a total of $500 in gift cards**.
+Participants who complete the whole study will receive a bonus of <u>$175</u>. Therefore, if you complete the whole study, you will receive <u>**a total of $500 in gift cards**</u>.
 
 **Where will this take place and how much of my time will it take?** 
-
 
 The lab sessions will take place in our lab at Northeastern University's Interdisciplinary Science & Engineering Complex located at 805 Columbus Avenue in Boston. We will cover your parking fees. [Click here](https://goo.gl/maps/sisDYKQb3DHBvXeq8) to see the lab's location on Google Maps. 
 
@@ -110,7 +102,7 @@ The study will last 12 months from your first lab session to completion. Each of
 
 **At what times will the lab sessions take place?**
 
-We will schedule the lab meetings based on your availibility. Our labs are open seven days a week between 8 am and 11 pm ET. 
+We will schedule the lab meetings based on your availability. Our labs are open seven days a week between 8 am and 11 pm ET. 
 
 **Who will see the information about me and my data?**
 
@@ -131,6 +123,5 @@ You may feel fatigued or frustrated during the thinking and movement tasks in th
 EEG is of minimal risk and should cause no harm. There is a small chance that you may experience some scalp irritation from the electrodes.
 
 **Who can I contact if I have questions or problems?**
-
 
 If you have any questions about this study, please feel free to contact the principal investigator Dr. Sumientra Rampersad via phone (617-379-1112) or email: foci.study@gmail.com (preferred) or s.rampersad@northeastern.edu.
