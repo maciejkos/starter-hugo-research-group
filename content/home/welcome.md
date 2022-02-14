@@ -19,8 +19,6 @@ Help scientists develop novel technology for monitoring brain health!
 
 **Participants who complete the study will receive $500 in gift cards.**
 
-{{< cta cta_text="ENROLL NOW!" cta_link="https://forms.gle/Trdank3etdsbqFif7" cta_new_tab="false" padding_left="0">}}
-
 **We are recruiting 3 different groups of participants:**
 
 1. People experiencing difficulties with memory or thinking skills. 
