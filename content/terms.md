@@ -96,7 +96,7 @@ To respect your privacy:
 
 Our research app will also ask you short questions, e.g., “Were you shopping yesterday?” On average, you would receive one question every two days and no more than three questions per day. By default, the questions will be sent between 11 am and 9 pm. However, you can change delivery times to be between the hours that you specify.
 
-At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking + movement tasks). During the third visit, we will remove the data collection app from your phone.
+At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking and movement tasks, EEG). During the third visit, we will remove the data collection app from your phone.
 
 {{< /spoiler >}}
 
@@ -111,7 +111,7 @@ You will receive gift cards worth:
 * $100 after the second lab session,
 * $150 after the third lab session. 
 
-Participants who complete the whole study will receive a bonus of <u>$175</u>. Therefore, if you complete the whole study, you will receive <u>**a total of $500 in gift cards**</u>.
+Participants who complete the whole study will receive a bonus of <u>$175</u>. Therefore, if you complete the whole study, you will receive a <u>**total of $500 in gift cards**</u>.
 
 {{< /spoiler >}}
 
