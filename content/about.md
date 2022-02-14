@@ -36,7 +36,7 @@ The procedures that you will be asked to complete include:
 {{< spoiler text="**What phone do I need to participate in the study?**" >}}
 
 
-You need to have and regularly use an Android smartphone with a data plan. The version of your Android operating system should be 7 or higher. To check what version of Android your phone uses, go to this page. 
+You need to have and regularly use an Android smartphone with a data plan. The version of your Android operating system should be 7 or higher. To check what version of Android your phone uses, go to [this page]({{< relref "/android" >}}). 
 
 Unfortunately, iPhones cannot be used in this study.
 {{< /spoiler >}}
