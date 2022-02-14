@@ -5,7 +5,7 @@
 
 title: FOCI Research Study # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Maciej Kos' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
