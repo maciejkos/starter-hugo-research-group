@@ -7,7 +7,7 @@ summary: ""
 
 **Organization**: Northeastern University, Department of Electrical and Computer Engineering
 
-**Investigators**: Sumientra Rampersad, PhD; Michael (Misha) Pavel, Phd; Maciej Kos
+**Investigators**: Sumientra Rampersad, Ph.D.; Michael (Misha) Pavel, Ph.D.; Maciej Kos, MA, MSc
 
 **What is the goal of this study?**
 
