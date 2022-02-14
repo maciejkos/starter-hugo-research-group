@@ -27,6 +27,10 @@ The procedures that you will be asked to complete include:
 * During the 3 lab visits, you will be asked to answer brief demographic questions, complete a series of thinking and movement tasks, and have electroencephalography  (EEG) of your head.
 * Throughout the 12 months of the study, you will receive, on average, one message every two days, and no more than two messages per day, on your phone asking you to respond to a brief question.
 
+**What phone do I need to participate in the study?**
+
+You need to have and regularly use an Android smartphone with a data plan. The version of your Android operating system should be 7 or higher. To check what version of Android your phone uses, go to this page. 
+
 **Why am I being asked to take part in this research study?**
 
 We are asking individuals with and without mild or subjective cognitive impairment to participate. You have shown an interest in helping us develop new mobile technology for detecting and monitoring cognitive impairments. You are between 45 and 65 years of age, able to speak and read English, you own and use an Android smartphone with a data plan. 
