@@ -10,7 +10,7 @@ cta:
   icon: download
 widget_id: hero-cta
 headless: true
-weight: 0
+weight: 5
 title: TITLE
 subtitle: SUBTITLE
 hero_media: ""
