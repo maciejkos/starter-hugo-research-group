@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: foci.study@gmail.com
+phone: 617-379-1112
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -34,9 +34,8 @@ coordinates:
   longitude: '-122.1697'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Every day (including weekends) 8:00 am to 11:00 pm ET'
+appointment_url: ''
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
@@ -52,7 +51,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
