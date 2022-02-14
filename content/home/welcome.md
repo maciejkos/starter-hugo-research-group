@@ -19,6 +19,8 @@ Help scientists develop novel technology for monitoring brain health!
 
 **Participants who complete the study will receive $500 in gift cards.**
 
+---
+
 **We are recruiting 3 different groups of participants:**
 
 1. People experiencing difficulties with memory or thinking skills. 
@@ -39,6 +41,8 @@ Help scientists develop novel technology for monitoring brain health!
 * let us install our data collection app on your phone during the first visit and keep it on your phone for one year;
 
 **Participants who complete the study will receive $500 in gift cards (one after each session) and we cover parking fees.**
+
+---
 
 **If you are interested:**
 
