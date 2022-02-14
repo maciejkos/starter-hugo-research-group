@@ -4,7 +4,7 @@ cta_note:
 widget: hero
 active: true
 cta:
-  url: https://forms.gle/Trdank3etdsbqFif7
+  url: /enroll
   label: Enroll now!
   icon_pack: fas
   icon: fa-arrow-right
