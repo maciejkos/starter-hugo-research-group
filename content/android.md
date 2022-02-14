@@ -19,6 +19,7 @@ You will see a screen that looks similar to the below screenshot. If the [websit
 {{< figure src="android.jpg" caption="The screenshot showing Android 12 is used" numbered="false" >}}
 
 <br>
+---
 
 **If you have any trouble following these instructions**, please fill out the [interest form]({{< relref "/enroll" >}}). We will help you check your Android version before inviting you to the first lab visit.
 
