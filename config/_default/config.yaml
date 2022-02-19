@@ -5,7 +5,8 @@
 
 title: FOCI Research Study # Website name
 baseurl: 'cognition.nu' # Website URL
-copyright: '© {year} Maciej Kos \n <a href="https://www.freepik.com/vectors/brain-cartoon">Brain cartoon vector created by upklyak - www.freepik.com</a>' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Maciej Kos  
+<a href="https://www.freepik.com/vectors/brain-cartoon">Brain cartoon vector created by upklyak - www.freepik.com</a>' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
