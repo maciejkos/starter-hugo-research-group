@@ -10,7 +10,7 @@ design:
   columns: "1"
   css_style: null
   css_class: null
-hero_media: welcome.jpg
+hero_media: welcome_grey.jpg
 ---
 
 <br>
