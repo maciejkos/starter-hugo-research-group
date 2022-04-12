@@ -27,9 +27,9 @@ The study consists of:
 
 The procedures that you will be asked to complete include:
 
-* Allowing researchers to export your Android activity data, i.e., your movement data, what apps you use and when from your Google account, and to install a data collection app on your smartphone.
 * During the 3 lab visits, you will be asked to answer brief demographic questions, complete a series of thinking and movement tasks, and have electroencephalography  (EEG) of your head.
-* Throughout the 12 months of the study, you will receive, on average, one message every two days, and no more than two messages per day, on your phone asking you to respond to a brief question.
+* Throughout the 12 months of the study, you will receive, on average, one message every two days, and no more than three messages per day, on your phone asking you to respond to a brief question.
+* [optional] Allowing researchers to export your Android activity data, i.e., your movement data, what apps you use and when from your Google account, and to install a data collection app on your smartphone.
 
 {{< /spoiler >}}
 
@@ -98,6 +98,8 @@ Our research app will also ask you short questions, e.g., “Were you shopping y
 
 At the end of the first in-person meeting, we will schedule a phone call with you for three weeks later. This phone call is meant to see how you are doing with the app and whether you have any questions. We will check in again 2 months later and then schedule the second lab visit, 6 months after the first. The third lab visit will happen 12 months after the start of the study. The second and third lab visits will be similar to the first (thinking and movement tasks, EEG). During the third visit, we will remove the data collection app from your phone.
 
+Finally, between in-person visits, we will ask you to complete brief (10-15 min) thinking tests at home at months 2, 4, 8, and 10.
+
 {{< /spoiler >}}
 
 {{< spoiler text="**Will I be compensated for my participation in this study?**" >}}
@@ -113,14 +115,19 @@ You will receive gift cards worth:
 
 Participants who complete the whole study will receive a bonus of <u>$175</u>. Therefore, if you complete the whole study, you will receive a <u>**total of $500 in gift cards**</u>.
 
+Completing the study means that you:
+1)	participated in all three lab visits;
+2)	completed brief thinking tests at home at months 2, 4, 8, and 10; each thinking test takes only 10-15 min;
+3)	answered at least 75% of the short questions sent to your phone;
+4)	and kept the data collection app installed and working on your phone for 12 months.
+
+
 {{< /spoiler >}}
 
 {{< spoiler text="**Where will this study take place and how much of my time will it take?** " >}}
 
 
 The lab sessions will take place in our lab at Northeastern University's Interdisciplinary Science & Engineering Complex located at 805 Columbus Avenue in Boston. We will cover your parking fees. [Click here](https://goo.gl/maps/sisDYKQb3DHBvXeq8) to see the lab's location on Google Maps. 
-
-If you prefer to attend the lab sessions at our second location right next to Prudential, please notify our team. We will try to accommodate your request. The second location is at 177 Huntington. [Click here](https://goo.gl/maps/ihSpFaeb33nytFcz6) to see the second location on Google Maps. 
 
 The study will last 12 months from your first lab session to completion. Each of the three lab sessions will take between 2 and 3 hours. The lab visits will be six months apart.
 
@@ -136,7 +143,7 @@ We will schedule the lab meetings based on your availability. Our labs are open 
 {{< spoiler text="**Who will see the information about me and my data?**" >}}
 
 
-Your information in this study will be confidential. Only the researchers conducting this study will see the information about you and your data. No reports or publications will use information that can identify you in any way as being a participant in this project. All recordings will be destroyed following transcription and analysis. Your de-identified information could be used for future research without additional informed consent.
+Your information in this study will be confidential. Only the researchers conducting this study will see the information about you and your data. No reports or publications will use information that can identify you in any way as being a participant in this project. Your de-identified information could be used for future research without additional informed consent.
 
 {{< /spoiler >}}
 
