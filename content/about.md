@@ -62,7 +62,7 @@ We will ask you to undergo an electroencephalography (EEG) session, which takes 
 
 EEG is of minimal risk and should cause no harm. There is a small chance that you may experience some scalp irritation from the electrodes.
 
-We will also ask you to allow us to export your Android activity data, i.e., your movement data, what apps you use on your phone and when. We will not export any emails, messages, photos, videos, or browsing history. You will log into your Google account on our secure lab computer. We will export your Android activity data using Google’s service called Google Takeout. We will encrypt and save the data on the computer and log out of your Google account. To ensure nobody can access your account, we will clear the browser’s cache and cookies.
+[Optional] We will also ask you to allow us to export your Android activity data, i.e., your movement data, what apps you use on your phone and when. If you don’t agree to your share these historical data, you will still be able to participate in the study and be eligible to receive full compensation. We will not export any emails, messages, photos, videos, or browsing history. You will log into your Google account on our secure lab computer. We will export your Android activity data using Google’s service called Google Takeout. We will encrypt and save the data on the computer and log out of your Google account. To ensure nobody can access your account, we will clear the browser’s cache and cookies.
 
 Next, we will install our research data collection app on your phone. The app collects the following data:
 
