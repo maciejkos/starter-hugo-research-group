@@ -30,13 +30,14 @@ Help scientists develop novel technology for monitoring brain health!
 **You are eligible if you:**
 
 * are 45 to 65 years old;
-* own and regularly use an Android smartphone with a data plan (Internet);
+* own and regularly use an Android smartphone with a data plan (Internet) 
+* don't plan to switch to an iPhone (or any other non-Android phone) in the next 12 months;
 * are not diagnosed with Alzheimer’s disease, Parkinson’s disease, vascular dementia, claustrophobia, stroke, epilepsy, seizures, PTSD, TBI, psychosis, bipolar disorder, schizophrenia,  unstable major depression, unstable anxiety disorder, or a health condition preventing you from leaving home
 * are not pregnant or planning to get pregnant in the next year
 
 **The study would require you to:**
 
-* attend three in-person lab visits (~2.5 hours each) at Northeastern University in Boston over the course of one year:
+* attend three in-person lab visits (2-3 hours each) at Northeastern University in Boston over the course of one year:
 * participate in thinking and movement tasks and undergo scalp EEG during those three visits;
 * let us install our data collection app on your phone during the first visit and keep it on your phone for one year;
 
