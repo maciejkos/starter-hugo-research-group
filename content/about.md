@@ -110,10 +110,10 @@ As a token of our gratitude, after every session you will receive a gift card fr
 You will receive gift cards worth: 
 
 * $75 after the first lab session, 
-* $100 after the second lab session,
+* $95 after the second lab session,
 * $150 after the third lab session. 
 
-Participants who complete the whole study will receive a bonus of <u>$175</u>. Therefore, if you complete the whole study, you will receive a <u>**total of $500 in gift cards**</u>.
+Participants who complete the whole study will receive a bonus of <u>$180</u>. Therefore, if you complete the whole study, you will receive a <u>**total of $500 in gift cards**</u>.
 
 Completing the study means that you:
 1)	participated in all three lab visits;
