@@ -15,5 +15,5 @@ header:
 ---
 
 On your phone, go to this address:
-https://play.google.com/apps/internaltest/4699405837767723886
+[https://play.google.com/store/apps/details?id=com.research.foci](https://play.google.com/store/apps/details?id=com.research.foci)
 
