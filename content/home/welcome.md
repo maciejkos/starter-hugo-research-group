@@ -17,7 +17,7 @@ hero_media: welcome_grey.jpg
 
 Help scientists develop novel technology for monitoring brain health!
 
-**Participants who complete the study will receive $500 in gift cards.**
+**Participants who complete the study will receive $500 in gift cards/checks**
 
 ---
 
