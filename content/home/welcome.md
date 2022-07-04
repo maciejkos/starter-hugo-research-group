@@ -42,7 +42,7 @@ Help scientists develop novel technology for monitoring brain health!
 * let us install our data collection app on your phone during the first visit and keep it on your phone for one year;
 * complete brief (10-15 min) thinking tests at home at months 2, 4, 8, and 10.
 
-**Participants who complete the study will receive $500 in gift cards (one after each session) and we cover parking fees.**
+**Participants who complete the study will receive $500 in gift cards (one after each session), checks, and we cover parking fees.**
 
 ---
 
