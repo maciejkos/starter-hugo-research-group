@@ -107,7 +107,7 @@ Finally, between in-person visits, we will ask you to complete brief (10-15 min)
 
 As a token of our gratitude, after every session you will receive a check or gift card from a store of your choice: Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, or iTunes. If you are interested in a gift card for another store, please let us know. We will do our best to accommodate your request, but we can’t guarantee that we will be able to provide gift cards for stores other than Amazon, Target, Bed Bath and Beyond, Walmart, Star Market, Stop & Shop, and iTunes.
 
-You will receive gift cards worth: 
+You will receive: 
 
 * $75 after the first lab session, 
 * $95 after the second lab session,
