@@ -121,8 +121,6 @@ marketing:
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
-  verification:
-    bing: '<meta name="msvalidate.01" content="54EE903CE3453289469F2E9A35B12452" />'  
 cms:
   branch: main
   local_backend: false
