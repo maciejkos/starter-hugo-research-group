@@ -15,5 +15,7 @@ header:
 ---
 
 We will contact you within the next 10 business days. If you don't hear back from us, please do email or call us. 
-Our contact information is on this page: https://www.cognition.nu/contact](https://www.cognition.nu/contact)
+
+Our contact information is on this page: 
+[https://www.cognition.nu/contact](https://www.cognition.nu/contact)
 
