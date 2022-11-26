@@ -12,14 +12,13 @@ design:
   css_class: null
 hero_media: welcome_grey.jpg
 ---
-
 <br>
 
 Help scientists develop novel technology for monitoring brain health!
 
 **Participants who complete the study will receive $500 in gift cards/checks**
 
----
+- - -
 
 **We are recruiting 3 different groups of participants:**
 
@@ -44,10 +43,14 @@ Help scientists develop novel technology for monitoring brain health!
 
 **Participants who complete the study will receive $500 in gift cards and checks (one after each session), and we will cover parking fees.**
 
----
+
+
+## **Lab visits** **are available 7 days a week, including late evenings!**
+
+- - -
 
 **If you are interested:**
 
-* Read more [about the study]({{< relref "/about" >}}).
-* Fill out our [interest form]({{< relref "/enroll" >}}) and we will contact you (preferred).
+* Read more \[about the study]({{< relref "/about" >}}).
+* Fill out our \[interest form]({{< relref "/enroll" >}}) and we will contact you (preferred).
 * You can also contact us at foci.study@gmail.com or 617-379-1112.
