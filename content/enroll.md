@@ -7,3 +7,5 @@ summary: ""
 <br>
 <br>
 To access the form directly, click here: https://forms.gle/Trdank3etdsbqFif7
+
+## **Lab visits** **are available 7 days a week, including late evenings!**
