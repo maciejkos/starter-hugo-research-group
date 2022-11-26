@@ -43,7 +43,7 @@ Help scientists develop novel technology for monitoring brain health!
 
 **Participants who complete the study will receive $500 in gift cards and checks (one after each session), and we will cover parking fees.**
 
-
+- - -
 
 ## **Lab visits** **are available 7 days a week, including late evenings!**
 
