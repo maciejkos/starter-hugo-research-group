@@ -176,3 +176,5 @@ EEG is of minimal risk and should cause no harm. There is a small chance that yo
 If you have any questions about this study, please feel free to contact the principal investigator Dr. Sumientra Rampersad via phone (617-379-1112) or email: foci.study@gmail.com (preferred) or s.rampersad@northeastern.edu.
 
 {{< /spoiler >}}
+
+## **Lab visits** **are available 7 days a week, including late evenings!**
