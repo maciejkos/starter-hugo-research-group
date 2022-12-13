@@ -54,3 +54,7 @@ Help scientists develop novel technology for monitoring brain health!
 * Read more [about the study]({{< relref "/about" >}}).
 * Fill out our [interest form]({{< relref "/enroll" >}}) and we will contact you (preferred).
 * You can also contact us at foci.study@gmail.com or 617-379-1112.
+
+{{% callout note %}}
+FOCI is an observational study, not a clinical trial. To read more visit [this page]({{< relref "/foci-is-an-observational-study" >}}).
+{{% /callout %}}
