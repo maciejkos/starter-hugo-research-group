@@ -18,7 +18,7 @@ An *observational study* is a type of research study in which researchers observ
 In this project, we aim to develop a method for detecting changes in cognitive functions, e.g., memory and attention. We collect data to measure your behaviors, but we do not interfere with them. For this reason, our study is observational. This study would be a clinical trial if we were testing a new drug or medication to improve your cognitive functions. However, we are not doing it, so FOCI is merely observational in nature.
 
 
-References: 
+### References: 
 
 NIH: [https://grants.nih.gov/policy/clinical-trials/definition.htm](https://www.whatismybrowser.com/detect/what-version-of-android-do-i-have)
 
