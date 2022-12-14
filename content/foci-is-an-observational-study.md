@@ -20,7 +20,7 @@ In this project, we aim to develop a method for detecting changes in cognitive f
 
 ### References: 
 
-NIH: [https://grants.nih.gov/policy/clinical-trials/definition.htm](https://www.whatismybrowser.com/detect/what-version-of-android-do-i-have)
+NIH: [https://grants.nih.gov/policy/clinical-trials/definition.htm](https://www.whatismybrowser.com/detect/what-version-of-android-do-i-have](https://grants.nih.gov/policy/clinical-trials/definition.htm)
 
 FDA: [https://www.fda.gov/patients/clinical-trials-what-patients-need-know](https://www.fda.gov/patients/clinical-trials-what-patients-need-know)
 
