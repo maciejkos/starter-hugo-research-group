@@ -12,6 +12,8 @@ design:
   css_class: null
 hero_media: welcome_grey.jpg
 ---
+widget: blank
+widget_id: CTA
 <br>
 
 Help scientists develop novel technology for monitoring brain health!
