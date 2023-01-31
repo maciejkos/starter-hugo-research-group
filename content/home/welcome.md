@@ -39,7 +39,7 @@ Help scientists develop novel technology for monitoring brain health!
 * attend three in-person lab visits (2-3 hours each) at Northeastern University in Boston over the course of one year;
 * participate in thinking and movement tasks and undergo scalp EEG during those three visits;
 * let us install our data collection app on your phone during the first visit and keep it on your phone for one year;
-* complete brief (10-15 min) thinking tests at home at months 2, 4, 8, and 10.
+* complete brief (10-15 min) thinking tests at home at months 2, 6, 8, and 10.
 
 **Participants who complete the study will receive $500 in gift cards and checks (one after each session), and we will cover parking fees.**
 
