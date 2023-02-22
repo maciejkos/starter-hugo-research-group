@@ -5,7 +5,7 @@ summary: ""
 ---
 Participants who complete the study will receive $500 in gift cards/checks.
 <br>
-Overview of our study is here [here](https://www.cognition.nu).
+Overview of our study is [here](https://www.cognition.nu).
 <br>
 {{< gdocs src="https://docs.google.com/forms/d/e/1FAIpQLSf-zZB-a_DP6fg5wcpO_PeWJPxBNyuupwQToIu5vUr1e0mhDg/viewform" >}}
 <br>
