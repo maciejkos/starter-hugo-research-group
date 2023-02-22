@@ -5,7 +5,7 @@ widget: hero
 active: true
 cta:
   url: /enroll
-  label: Enroll now!
+  label: Join now!
   icon_pack: fas
   icon: fa-arrow-right
 widget_id: hero-cta
