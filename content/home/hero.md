@@ -1,6 +1,6 @@
 ---
 cta_note:
-  label: Earn up to $500 and help scientists studying brain health.
+  label: Receive up to $500 and help scientists studying brain health.
 widget: hero
 active: true
 cta:
