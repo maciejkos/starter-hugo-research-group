@@ -7,7 +7,7 @@ summary: ""
 ## **Frequently Asked Questions**
 
 <br>
-1. How to change your notification schedule in the FOCI app?
+### 1. How to change your notification schedule in the FOCI app?
 {{< youtube c--zo3JZR-c >}}
 <br>
 
