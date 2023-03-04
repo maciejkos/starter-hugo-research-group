@@ -3,9 +3,8 @@ title: Frequently Asked Questions
 date: 2023-03-04T14:10:01.640Z
 summary: ""
 ---
-{{% callout note %}}
+
 **Frequently Asked Questions**
-{{% /callout %}}
 
 <br>
 1. How to change your notification schedule in the FOCI app?
