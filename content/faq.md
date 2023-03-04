@@ -8,12 +8,8 @@ summary: ""
 {{% /callout %}}
 
 <br>
-How to change your notification schedule in the FOCI app?
-<br>
-1 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c--zo3JZR-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-2 <br> 
+1. How to change your notification schedule in the FOCI app?
 {{< youtube c--zo3JZR-c >}}
 <br>
-3 Watch on YouTube: [https://youtu.be/c--zo3JZR-c](https://youtu.be/c--zo3JZR-c)
+
+Watch on directly on [YouTube](https://youtu.be/c--zo3JZR-c)
