@@ -23,11 +23,11 @@ Overview of our study is [here](https://www.cognition.nu/).
 **You are eligible if you:**
 
 * are 45 to 65 years old;
+* are able to attend three in-person lab visits at Northeastern University in downtown Boston; we will cover parking fees;
 * own and regularly use an Android smartphone with a data plan (Internet); 
 * don't plan to switch to an iPhone (or any other non-Android phone) in the next 12 months;
 * are not diagnosed with Alzheimer’s disease, Parkinson’s disease, vascular dementia, claustrophobia, stroke, epilepsy, seizures, PTSD, TBI, psychosis, bipolar disorder, schizophrenia,  unstable major depression, unstable anxiety disorder, or a health condition preventing you from leaving home;
-* are not pregnant or planning to get pregnant in the next year;
-* are able to attend three in-person lab visits at Northeastern University in downtown Boston; we will cover parking fees.
+* are not pregnant or planning to get pregnant in the next year.
 {{< /spoiler >}}
 {{< spoiler text="**What does the study involve?**" >}}
 **The study would require you to:**
