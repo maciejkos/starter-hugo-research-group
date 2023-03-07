@@ -9,6 +9,7 @@ Overview of our study is [here](https://www.cognition.nu/).
 <br>
 {{< spoiler text="**Who is conducting this study?**" >}}
 **Organization**: Northeastern University, Department of Electrical and Computer Engineering
+
 **Investigators**: Sumientra Rampersad, Ph.D.; Michael (Misha) Pavel, Ph.D.; Maciej Kos, MA, MSc
 {{< /spoiler >}}
 {{< spoiler text="**Who are you looking for?**" >}}
