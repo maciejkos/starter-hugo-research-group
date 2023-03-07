@@ -13,5 +13,7 @@ Overview of our study is [here](https://www.cognition.nu/).
 To access the form directly, click here: https://forms.gle/Trdank3etdsbqFif7
 ## **Lab visits** **are available 7 days a week, including late evenings!**
 <br>
+We will cover parking fees.
+<br>
 
 Detailed study information is [here]({{< relref "/about" >}}).
